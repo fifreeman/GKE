@@ -1,0 +1,5 @@
+project_id			= "terra-deploy"
+network_name    = "vpc-01"
+subnet_name     = "gke-vpc-subnet"
+subnet_ip       = "10.0.0.0/24"
+subnet_region    = "europe-west2"
